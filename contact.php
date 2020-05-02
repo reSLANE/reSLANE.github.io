@@ -1,4 +1,6 @@
 <?php
+//Change "name=" to cf_ as below.
+
 $field_name = $_POST['cf_name'];
 $field_email = $_POST['cf_email'];
 $field_message = $_POST['cf_message'];
